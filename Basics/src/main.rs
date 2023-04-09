@@ -1,6 +1,8 @@
 // mod print;
-mod vars;
+// mod vars;
+// mod types;
+mod strings;
 
 fn main() {
-    vars::run();
+    strings::run();
 }
